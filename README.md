@@ -1,3 +1,5 @@
 # agjackson.github.io
 
-Credit for template: Wido Raharjo
+My website for sharing my projects :)
+
+Started with a template from Uisual (Thanks, Wido Raharjo).
